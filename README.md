@@ -38,6 +38,5 @@ Interactive food ordering system using HTML, CSS & JavaScript.
 
 📫 Let's Connect
 💼 LinkedIn https://www.linkedin.com/in/namita-arora-/ 
-🌐 Portfolio 
 
 📧 Email: namitaarora2004@gmail.com
