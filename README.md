@@ -15,14 +15,17 @@
 -->
 
 🎓 CSE Student @ Lovely Professional University
+
 💡 Aspiring Data Scientist | ML Enthusiast 
+
 🏆 Elite + Silver in NPTEL Cloud Computing
+
 📚 Passionate about solving real-world problems through data-driven insights.
 
 🛠️ Tech Stack
 Languages: Python, C++, Java, R, SQL
 
-Tools & Frameworks: Git, TensorFlow, Scikit-learn, Excel, Tableau
+Tools & Frameworks: Git, Scikit-learn, Excel, Tableau
 
 Concepts: Machine Learning, Data Structures, Financial Analysis
 
