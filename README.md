@@ -22,13 +22,17 @@
 - **Advanced SQL & Data Warehousing**
 
 ### 🛠️ Tech Stack:  
-<div align="left">
-  <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus.png" alt="C++" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/336791/sql.png" alt="SQL" width="50"/>
-  <!-- other icons -->
-</div>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 ### 🚀 Projects:
 - 🔐 **[Vertebral Column Classification](https://github.com/Namita-010304/classification-of-vertebral-column-)**: Detecting vertebral abnormalities with ML models.
