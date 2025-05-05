@@ -2,8 +2,8 @@
 
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" height = "60%" width="100%" />
-</p>
+  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" height = "60%" width="80%" />
+</p> 
 
 <!-- Intro Section -->
 <h2 align="center">Hi, I'm Namita Arora</h2>
