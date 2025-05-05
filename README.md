@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Banner](https://github.com/namita-arora/namita-arora/assets/your-banner-image.png)
+![Banner](https://imgs.search.brave.com/RqzctRN4yVgV8U5B-uZfzk3JRAhCWfppNGvqdB_f1vc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ3/OTc1OTE2OS9waG90/by9kYXRhLXNjaWVu/Y2UtYW5kLWJpZy1k/YXRhLXRlY2hub2xv/Z3ktZGF0YS1zY2ll/bnRpc3QtY29tcHV0/aW5nLWFuZC12aXN1/YWxpemluZy5qcGc/)
+
 
 🎓 **CSE Student @ Lovely Professional University**
 
@@ -26,21 +27,16 @@
 
 ### 🚀 Projects
 
-🔐 **[Credit Card Fraud Detection](https://github.com/namita-arora/project1)**  
-Detecting fraudulent transactions using ML models and SMOTE technique.
+🔐 **[Classifucation of vertebral columns](https://github.com/Namita-010304/classification-of-vertebral-column-)**  
+Detecting fraudulent transactions using ML models.
 
-🏨 **[Hotel Management System](https://github.com/namita-arora/project2)**  
+🏨 **[Hotel Management System](https://github.com/Namita-010304/HotelManagementSystem)**  
 An OOP-based menu-driven reservation system in C++.
 
-🍽️ **[Restaurant Menu App](https://github.com/namita-arora/project3)**  
-Interactive food ordering system using HTML, CSS & JavaScript.
+🍽️ **[Ai Safety Dashboard](https://github.com/Namita-010304/aisafetydashboard)**  
+An interactive dashboard built using React.js to visualize AI model behavior and safety metrics like bias, fairness, and explainability.
 
----
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namita-arora&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namita-arora&layout=compact&theme=radical)
 
 ---
 
