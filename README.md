@@ -9,9 +9,11 @@
 <h2 align="center">Hi 👋, I'm Namita Arora</h2>
 <h3 align="center">Aspiring Data Scientist | ML Enthusiast | CSE @ LPU</h3>
 <h3 align="center">📚 Passionate about solving real-world problems through data-driven insights.</h3>
+
 <p align="center">
-  <img src="https://your-profile-gif-or-image.com" alt="Data Science" width="60%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;CSE+Student+@+LPU&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
+
 
 
 ### 🔭 What I’m currently working on:
@@ -28,20 +30,9 @@
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Languages and Tools: 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-</p>
 
-
-### 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -49,7 +40,7 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
+</p>
 ---
 
 ### 🚀 Projects
