@@ -3,10 +3,24 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" style="height: 350px; width: 100%; object-fit: cover;" />
 </p>
+a
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="
+</p>
+b
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+c
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</p>
+d
 
+![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
-![MasterHead](https://user-images.githubusercontent.com/82999579/132934744-131c3c1d-4e4c-4e58-a3d5-46f3ed1d62b1.gif)
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Gz_R1S1rNDuRjZmpNWx3jA.gif)
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!-- Intro Section -->
 <h2 align="center">Hi, I'm Namita Arora</h2>
