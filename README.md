@@ -14,20 +14,19 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;CSE+Student+@+LPU&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
-
+---
 
 ### 🔭 What I’m currently working on:
-- 🚀 A Credit Card Fraud Detection Model using Python & ML
-- 📊 Deep dive into Exploratory Data Analysis
-- 💡 Building cool things with Python, R, and React
+- 🚀 **Credit Card Fraud Detection Model** using Python & ML
+- 📊 **Deep dive into Exploratory Data Analysis** (EDA) on diverse datasets to uncover hidden insights
+- 💡 **Building cool things** with Python, R, and React
 
 ---
 
 ### 🧠 What I’m currently learning:
-- Deep Learning (CNN, RNN, Transformers)
-- Docker + Cloud Deployment
-- Advanced SQL and Data Warehousing
-
+- **Deep Learning** (CNN, RNN, Transformers)
+- **Advanced SQL and Data Warehousing** – Enhancing skills in data management and optimization techniques
+- 
 ---
 
 ### 🛠️ Languages and Tools: 
