@@ -3,25 +3,16 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" style="height: 350px; width: 100%; object-fit: cover;" />
 </p>
-a
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-  <img src="
-</p>
-b
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
-c
+
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
 </p>
-d
+gygygy
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
 
-![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+ 
 <!-- Intro Section -->
 <h2 align="center">Hi, I'm Namita Arora</h2>
 <h3 align="center">Aspiring Data Scientist | ML Enthusiast | CSE @ LPU</h3>
