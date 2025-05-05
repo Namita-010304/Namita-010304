@@ -23,27 +23,13 @@
 - **Advanced SQL & Data Warehousing**
 
 ### 🛠️ Tech Stack:  
- 
 <div align="center">
   <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus.png" alt="C++" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/ED8B00/java.png" alt="Java" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/336791/sql.png" alt="SQL" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/FF6F00/tensorflow.png" alt="TensorFlow" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/E97627/tableau.png" alt="Tableau" width="50"/>
   <!-- other icons -->
 </div>
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus.png" alt="C++" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/ED8B00/java.png" alt="Java" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/336791/sql.png" alt="SQL" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/FF6F00/tensorflow.png" alt="TensorFlow" width="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/E97627/tableau.png" alt="Tableau" width="50"/>
-</p>
 
 ### 🚀 Projects:
 - 🔐 **[Vertebral Column Classification](https://github.com/Namita-010304/classification-of-vertebral-column-)**: Detecting vertebral abnormalities with ML models.
