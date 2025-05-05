@@ -1,5 +1,9 @@
 ## Hi there 👋
-![Banner](https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" width="100%" />
+</p>
+
 
 🎓 **CSE Student @ Lovely Professional University**
 
