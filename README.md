@@ -23,7 +23,7 @@
 - **Advanced SQL & Data Warehousing**
 
 ### 🛠️ Tech Stack:  
-<div align="center">
+<div align="left">
   <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus.png" alt="C++" width="50"/>
