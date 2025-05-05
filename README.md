@@ -24,15 +24,13 @@
 
 ### 🛠️ Tech Stack:  
 <p align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-  
+  <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/00599C/c-plus-plus.png" alt="C++" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/ED8B00/java.png" alt="Java" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/336791/sql.png" alt="SQL" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/FF6F00/tensorflow.png" alt="TensorFlow" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/E97627/tableau.png" alt="Tableau" width="50"/>
 </p>
 
 ### 🚀 Projects:
