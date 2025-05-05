@@ -12,7 +12,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
@@ -33,8 +32,6 @@ An OOP-based menu-driven reservation system in C++.
 
 🍽️ **[Ai Safety Dashboard](https://github.com/Namita-010304/aisafetydashboard)**  
 An interactive dashboard built using React.js to visualize AI model behavior and safety metrics like bias, fairness, and explainability.
-
-
 
 ---
 
