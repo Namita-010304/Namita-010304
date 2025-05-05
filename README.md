@@ -12,8 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Machine+Learning+Explorer;CSE+Student+@+LPU&center=true&width=500&height=50" alt="Typing SVG" />
 </p>
 
----
-
 ### 🔭 Currently Working On:
 - 🚀 **Credit Card Fraud Detection** using Python & ML
 - 📊 **Exploratory Data Analysis** (EDA) on diverse datasets
@@ -23,8 +21,6 @@
 - **Deep Learning** (CNN, RNN, Transformers)
 - **Docker & Cloud Deployment**
 - **Advanced SQL & Data Warehousing**
-
----
 
 ### 🛠️ Tech Stack:  
 <p align="center">
@@ -36,16 +32,13 @@
   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+  
 </p>
-
----
 
 ### 🚀 Projects:
 - 🔐 **[Vertebral Column Classification](https://github.com/Namita-010304/classification-of-vertebral-column-)**: Detecting vertebral abnormalities with ML models.
 - 🏨 **[Hotel Management System](https://github.com/Namita-010304/HotelManagementSystem)**: OOP-based reservation system in C++.
 - 🍽️ **[AI Safety Dashboard](https://github.com/Namita-010304/aisafetydashboard)**: Interactive dashboard built with React.js to visualize AI safety metrics.
-
----
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namita-arora-/)  
