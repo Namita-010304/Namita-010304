@@ -1,9 +1,6 @@
 ## Hi there 👋
 ![Banner](https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp)
 
-<img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" alt="Banner" style="width:100;" />
-
-
 🎓 **CSE Student @ Lovely Professional University**
 
 💡 **Aspiring Data Scientist | ML Enthusiast**
