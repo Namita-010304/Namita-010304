@@ -2,7 +2,7 @@
 
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" height = "80%" width="100%" />
+  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" height = "60%" width="100%" />
 </p>
 
 <!-- Intro Section -->
@@ -43,4 +43,3 @@
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/namita-arora-/)  
 📧 **Email**: namitaarora2004@gmail.com
-
