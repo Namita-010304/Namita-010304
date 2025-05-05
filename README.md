@@ -23,6 +23,17 @@
 - **Advanced SQL & Data Warehousing**
 
 ### 🛠️ Tech Stack:  
+
+### 🛠️ Tech Stack:  
+![Python](https://img.icons8.com/ios-filled/50/3776AB/python.png) ![R](https://img.icons8.com/ios-filled/50/276DC3/r.png) ![C++](https://img.icons8.com/ios-filled/50/00599C/c-plus-plus.png) ![Java](https://img.icons8.com/ios-filled/50/ED8B00/java.png) ![SQL](https://img.icons8.com/ios-filled/50/336791/sql.png) ![TensorFlow](https://img.icons8.com/ios-filled/50/FF6F00/tensorflow.png) ![Tableau](https://img.icons8.com/ios-filled/50/E97627/tableau.png)
+
+iii 
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
+  <!-- other icons -->
+</div>
+jj
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/3776AB/python.png" alt="Python" width="50"/>
   <img src="https://img.icons8.com/ios-filled/50/276DC3/r.png" alt="R" width="50"/>
