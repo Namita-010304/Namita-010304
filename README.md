@@ -1,6 +1,7 @@
 ## Hi there 👋
+![Banner](https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp)
 
-![Banner](https://imgs.search.brave.com/RqzctRN4yVgV8U5B-uZfzk3JRAhCWfppNGvqdB_f1vc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ3/OTc1OTE2OS9waG90/by9kYXRhLXNjaWVu/Y2UtYW5kLWJpZy1k/YXRhLXRlY2hub2xv/Z3ktZGF0YS1zY2ll/bnRpc3QtY29tcHV0/aW5nLWFuZC12aXN1/YWxpemluZy5qcGc/)
+<img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" alt="Banner" style="width:100;" />
 
 
 🎓 **CSE Student @ Lovely Professional University**
