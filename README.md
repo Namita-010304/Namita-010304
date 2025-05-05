@@ -2,7 +2,7 @@
 
 <!-- Full-width Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" width="100%" />
+  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" height = "80%" width="100%" />
 </p>
 
 <!-- Intro Section -->
