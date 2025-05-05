@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" style="height: 300px; width: 100%; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" style="height: 350px; width: 100%; object-fit: cover;" />
 </p>
 
 <!-- Intro Section -->
