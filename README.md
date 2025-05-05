@@ -6,7 +6,6 @@
 
 ![MasterHead](https://camo.githubusercontent.com/0c9b298d1318c6b3941f56b5c1bcad0b5c0ad6fc4d8f9a528b08d355a16e8f1a/68747470733a2f2f63646e2e616e696d656469612e6465762f75706c6f6164732f6f726967696e616c2f3135322f3135323638322e676966)
 ![MasterHead](https://user-images.githubusercontent.com/82999579/132934744-131c3c1d-4e4c-4e58-a3d5-46f3ed1d62b1.gif)
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Gz_R1S1rNDuRjZmpNWx3jA.gif)
 
 <!-- Intro Section -->
