@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-<!-- Full-width Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" height="20%" width="100%" />
+  <img src="https://raw.githubusercontent.com/Namita-010304/Namita-010304/main/my%20img.webp" style="height: 200px; width: 100%; object-fit: cover;" />
 </p>
-
 
 <!-- Intro Section -->
 <h2 align="center">Hi, I'm Namita Arora</h2>
